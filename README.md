@@ -7,4 +7,4 @@ Assignment_Smart_Home -> Smart Home Automation Using TinkerCAD (Day 3) <br/>
 BrainStorming -> Brainstorming.pdf <br/>
 Project Design Phase I, Proposed Solution -> Proposed Solution.pdf <br/>
 Assignment_Temp_Python -> Alarm in case of High Temperature(Day 6) <br/>
-Solution Architecture -> Solution Architecture.pdf
+Solution Architecture -> Solution_Architecture.pdf
