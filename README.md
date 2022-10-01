@@ -1,11 +1,3 @@
 # Smart Solutions For Railways
-Problem Statement -> Problem_Statement.pdf<br/>
-Empathy Map -> empathy_map.pdf<br/>
-Literature Survey-> literature_survey.pdf<br/>
-Assignment-1 -> Assignment_1.pdf<br/>
-Assignment_Smart_Home -> Smart Home Automation Using TinkerCAD (Day 3) <br/>
-BrainStorming -> Brainstorming.pdf <br/>
-Project Design Phase I, Proposed Solution -> Proposed Solution.pdf <br/>
-Assignment_Temp_Python -> Alarm in case of High Temperature(Day 6) <br/>
-Solution Architecture -> Solution_Architecture.pdf
-Problem-Solution Fit -> Problem-Solution_Fit.pdf
+Project Design and Planning -> Ideation Phase -> Empathy Map, Problem Statement, Brainstorming, Literature Survey
+Project Design and Planning -> Project Design Phase 1 -> Proposed Solution, Solution fit chart, Solution Architecture
