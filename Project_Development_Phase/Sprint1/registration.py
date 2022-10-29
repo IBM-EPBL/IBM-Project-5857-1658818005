@@ -1,3 +1,5 @@
+pip install streamlit-authenticator
+
 import streamlit as st
 import streamlit_authenticator as stauth
 import yaml
