@@ -15,7 +15,7 @@ with placeholder.form("login"):
     password = st.text_input("Password", type="password")
     submit = st.form_submit_button("Login")
 
-with open('/config.yaml') as file:
+with open('config.yaml') as file:
     config = yaml.load(file, Loader=yaml.SafeLoader)
 
 authenticator = stauth.Authenticate(
