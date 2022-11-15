@@ -7,11 +7,11 @@ from ibmcloudant import CouchDbSessionAuthenticator
 from ibm_cloud_sdk_core.authenticators import BasicAuthenticator
 
 
-authenticator = BasicAuthenticator ('apikey-v2-16u3crmdpkghhxefdikvpssoh5fwezrmuup5fv5g3ubz', 'bOab11944563e6255eabb978')
+authenticator = BasicAuthenticator ('apikey-v2-1g0tajj2ya23rva420ga3xjhedsh135ljftxzxvqfxwq', '82bca5b0a21ab96b35d79d5651c15947')
 service = CloudantV1(authenticator=authenticator)
-service.set_service_url ('https://apikey-v2-16u3crmdpkghhxefdikvpssoh5fwezrmuup5fv5g3ubz:b0ab119f45d3e6255eabb978e7e2f0')
+service.set_service_url ('https://apikey-v2-ov74n9aiwfps4zcm0ej219bkk2qu7ar613syud6asuc:a48702de86e76254a5d73faa0f667039@8bdd9d2e-653d-460c-95cb-e02b5803b7ca-bluemix.cloudantnosqldb.appdomain.cloud')
 
-cap= Cv2.VideoCapture(0)
+cap= cv2.VideoCapture(0)
 font = cv2.FONT_HERSHEY_PLAIN
 
 while True:
@@ -30,7 +30,7 @@ while True:
 			print ("Not a Valid Ticket")
 			time.sleep (5)
 	cv2.imshow ("Frame", frame)
-	if cv2.waitKey (1) & OxFF == ord ('q'):
+	if cv2.waitKey (1) & 0xFF == ord ('q'):
 		break
 
 cap.release ()

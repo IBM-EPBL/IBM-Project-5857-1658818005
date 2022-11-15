@@ -1,7 +1,7 @@
 import wiotp.sdk.device 
 import time 
 import random 
-myConfig = {"identity":{"orgId": "gagtey", "typeId": "GPS", "deviceId": "12345"}, 
+myConfig = {"identity":{"orgId": "iwr7hw", "typeId": "NodeMCU", "deviceId": "12345"}, 
 		"auth":{"token": "12345678"}
 }
 
